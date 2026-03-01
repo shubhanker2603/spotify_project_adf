@@ -1,0 +1,9 @@
+{
+	"name": "spotifyadfshubhanker",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8662c439-0a8e-4e46-ba04-ffe1d3414b45",
+		"tenantId": "6ea57651-363a-462f-9383-b215afb7423f"
+	}
+}
